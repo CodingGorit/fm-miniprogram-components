@@ -1,4 +1,15 @@
-# miniprogram-custom-component
+# fm-miniprogram-components  
+===============================================
+> 此为示例项目，仅作为运行调试使用，不得在上面修改   
+
+后续代码演进路线
+- dev-temp
+- dev
+- v1.0.0
+- ...
+- main  (need pull request and code review that can be merged)
+===============================================
+
 
 小程序自定义组件开发模板：
 
@@ -129,3 +140,6 @@ npm run clean
 ```
 npm run clean-dev
 ```
+
+## 更新日志
+- fix bug of "npm run dev" error and update readme 2022年5月15日
