@@ -82,7 +82,7 @@ module.exports = {
     ],
     'semi': [
       'error',
-      'never'
+      'always'
     ],
     'no-await-in-loop': 'off',
     'no-restricted-syntax': 'off',

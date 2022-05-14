@@ -1,24 +1,26 @@
-const _ = require('./utils')
-
-Component({
-  properties: {
-    prop: {
-      type: String,
-      value: 'index.properties'
-    },
-  },
+Page({
   data: {
-    flag: false,
+
   },
-  lifetimes: {
-    attached() {
-      wx.getSystemInfo({
-        success: () => {
-          this.setData({
-            flag: _.getFlag(),
-          })
-        }
-      })
-    }
-  }
-})
+  // eslint-disable-next-line no-unused-vars
+  onLoad(options) {
+
+  },
+  onReady() {
+
+  },
+  onShow() {
+
+  },
+  onHide() {
+
+  },
+  onUnload() {
+
+  },
+  onShareAppMessage() {
+    return {
+      title: '',
+    };
+  },
+});

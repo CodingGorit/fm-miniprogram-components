@@ -1,9 +1,6 @@
 {
-  "component": true,
+  "navigationBarTitleText": "fmin-ui",
   "usingComponents": {
-    "other": "./other"
-  },
-  "componentGenerics": {
-    "genericsTest": true
+    "my-tag": "./components/tag/index"
   }
 }
