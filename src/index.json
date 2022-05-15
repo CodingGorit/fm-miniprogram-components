@@ -1,6 +1,7 @@
 {
   "navigationBarTitleText": "fmin-ui",
   "usingComponents": {
-    "my-tag": "./components/tag/index"
+    "fmin-tag": "./tag/index",
+    "fmin-button": "./button/index"
   }
 }

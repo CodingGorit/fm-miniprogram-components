@@ -12,5 +12,13 @@ test
 tools
 docs
 miniprogram_dev
+src
 node_modules
 coverage
+
+
+.eslintrc.js
+gulpfile.js
+
+tsconfig.json
+.babelrc
