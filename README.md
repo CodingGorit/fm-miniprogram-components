@@ -7,7 +7,7 @@
 - dev
 - v1.0.0
 - ...
-- main  (need pull request and code review that can be merged)
+- main  (need pull request and code review that can be merged)  
 ===============================================
 
 
@@ -140,6 +140,3 @@ npm run clean
 ```
 npm run clean-dev
 ```
-
-## 更新日志
-- fix bug of "npm run dev" error and update readme 2022年5月15日
